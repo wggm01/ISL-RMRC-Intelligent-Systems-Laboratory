@@ -119,7 +119,11 @@ References (to other work that you have made use of).
 
 
 .
+3D Desing of The Robot 
+![The Robot](Images/4.jpeg) 
+![The Robot](Images/0.jpeg)
+![The Robot](Images/5.jpeg)
+![The Robot](Images/3.jpeg)
 
-![The Robot](Images/4.jpeg) | ![The Robot](Images/0.jpeg)
 
 .
