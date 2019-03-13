@@ -111,7 +111,9 @@ Open Source Hardware
 
 Open Source Software  
 
->Arduino IDE  
+>Arduino IDE 
+
+>Pycharm Community Version 
  
 >Debian operating system
 
