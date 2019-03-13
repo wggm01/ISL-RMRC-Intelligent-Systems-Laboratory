@@ -121,7 +121,7 @@ References (to other work that you have made use of).
 .
 
 
-![The Robot](4.jpg)
+![The Robot](4.jpeg)
 
 
 .
