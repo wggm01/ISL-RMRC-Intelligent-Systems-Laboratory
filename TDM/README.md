@@ -120,6 +120,6 @@ References (to other work that you have made use of).
 
 .
 
-![The Robot](Images/4.jpeg)
+![The Robot](Images/4.jpeg) | ![The Robot](Images/0.jpeg)
 
 .
