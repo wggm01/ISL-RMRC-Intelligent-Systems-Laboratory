@@ -22,7 +22,7 @@
 
 **Introduction summarising:**
 
->The team: Kelvin Kung,3rd year; Gabriel Marzullo, 5th year; Wvaldo Graell, 5th year; Danilo Caceres, Ph.D., Faculty mentor.
+>The team: Kelvin Kung,4th year; Gabriel Marzullo, 5th year; Wvaldo Graell, 5th year; Danilo Caceres, Ph.D., Faculty mentor.
  
 
 
@@ -36,13 +36,13 @@
 
 **System description, describing:**
 
->Hardware: Our robot is designed to be capable of elevating itself overpassing high obstacles and make precise turns using multiples analogic servos controlled by a multi servos board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servos board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are thinking to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
+>Hardware: Our robot is designed to be capable of elevating itself overpassing high obstacles and make precise turns using multiples analogic servos controlled by a multi servos board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servos board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
 
->Software: We are using Pycharm community version to code Python scripts, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
+>Software: We are planning to use Pycharm to code Python scripts, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
 
->Communications: The robot use the Asus Tinker Wifi  built in to communicate with the base station using the 5Ghz band using sockets. 
+>Communications: The robot will use the Asus Tinker Wifi  built in to communicate with the base station using the 5Ghz band using sockets. 
 
->Human-robot interface: The base station is just a laptop running processing executables that shows the video from the cameras and the data from the sensor once implemented.
+>Human-robot interface: We are planning to make a simple base station with just a laptop running processing executables that shows the video from the cameras and the data from the sensor implemented.
 
 
 .
@@ -51,20 +51,20 @@
 
 **Application, describing:**
 
->Setup and packup of your robot and operator station: The operator just will be a laptop and can the robot will be carried in a suit case that gives enogugh space to put all the accesories.
+>Setup and packup of your robot and operator station: The operator station just will be a laptop and the robot will be carried in a suit case that gives enough space to put all the accesories.
 
->Mission strategy: Danilo
+>Mission strategy: Our goal will be to take advantage of our robot's skills, such as its ability to make closed movements and increase its height thanks to the fact that each wheel has a pair of servos, plus it has independent traction on each wheel. Our main strategy is to keep our robot as stable as possible using distance sensors in conjunction with an imu achieving complete control over the robot movements and thus complete the largest number of tasks in the shortest time possible.
 
 >Experiments and testing that you have done or will do: we are planing to test the robot in diferents grounds to make sure that the robot is capable of goes through it using the cameras as the principal way to navigate the robot.
 
->How the particular strengths of your team are relevant to applications in the field: Danilo
+>How the particular strengths of your team are relevant to applications in the field: Our locomotion system allows us to cross irregular obstacles with ease and we count with a resistant of the robot structure thanks that we use aluminum extrusions as the main support.
 
 .
 
 
 **Conclusion:**
 
->What your team has learned so far:Danilo
+>What your team has learned so far: We are a new team and as newbies, every moment is new learning. Our design has taught us how to optimize the use of resources to obtain a functional product. Each member of the team is developing new skills to be able to face the tasks imposed in the competition and thus give a demonstration of what we are capable of.
 
 .
 
