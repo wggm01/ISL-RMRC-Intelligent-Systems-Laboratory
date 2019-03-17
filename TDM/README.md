@@ -34,7 +34,7 @@
 
 
 
-**System description, describing:**
+**System description:**
 
 >Hardware: Our robot is designed to be capable of elevating itself overpassing high obstacles and make precise turns using multiples analogic servos controlled by a multi servos board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servos board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
 
@@ -49,7 +49,7 @@
 
 
 
-**Application, describing:**
+**Application:**
 
 >Setup and packup of your robot and operator station: The operator station just will be a laptop and the robot will be carried in a suit case that gives enough space to put all the accesories.
 
