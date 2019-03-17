@@ -20,13 +20,13 @@
 
 
 
-**Introduction summarising:**
+**Introduction:**
 
 >The team: Kelvin Kung,4th year; Gabriel Marzullo, 5th year; Wvaldo Graell, 5th year; Danilo Caceres, Ph.D., Faculty mentor.
  
 
 
->The technical aspects that it focuses on: Gabriel Marzullo is designing a robot arm and improving the current structure of robot, Wvaldo Graell is making the code to control the robot wireless via wifi and implementing OpenCv library to do image recognition, Kelvin Kung is actually working on the code to control the movements of Robot.
+>The technical aspects that it focuses on: Gabriel Marzullo is working on the designing of a robot arm and improving the current structure of the robot, Wvaldo Graell is devolping the programming in order to control the robot wirelessly via wifi and implementing OpenCv libraries to diferents applications one of them image recognition, Kelvin Kung is also cooperating in the developing of the programming for the develop of additional movements of the Robot.
 
 
 .
@@ -36,7 +36,7 @@
 
 **System description:**
 
->Hardware: Our robot is designed to be capable of elevating itself overpassing high obstacles and make precise turns using multiples analogic servos controlled by a multi servos board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servos board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
+>Hardware: Our robot is designed to be capable of lift up itself overpassing high obstacles and make precise turns using multiples analogic servos controlled by a multi servos board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servos board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
 
 >Software: We are planning to use Pycharm to code Python scripts, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
 
