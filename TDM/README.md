@@ -40,7 +40,7 @@
 
 >Software: We are planning to use Pycharm to code Python scripts, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
 
->Communications: The robot will use the Asus Tinker Wifi  built in to communicate with the base station using the 5Ghz band using sockets. 
+>Communications: The robot will use the Asus Tinker Wifi  built in to communicate with the base station using the 2.4Ghz band using sockets. 
 
 >Human-robot interface: We are planning to make a simple base station with just a laptop running processing executables that shows the video from the cameras and the data from the sensor implemented.
 
