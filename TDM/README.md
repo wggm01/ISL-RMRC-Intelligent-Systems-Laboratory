@@ -42,7 +42,7 @@
 
 >Communications: The robot will use the Asus Tinker Wifi  built in to communicate with the base station using the 2.4Ghz band using sockets. 
 
->Human-robot interface: We are planning to make a simple base station with just a laptop running processing executables that shows the video from the cameras and the data from the sensor implemented.
+>Human-robot interface: We are planning to make a base station with just a laptop running a graphical user interface that shows the video from the cameras and the data from the sensors.
 
 
 .
