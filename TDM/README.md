@@ -42,7 +42,7 @@
 
 >Communications: The robot will use the Asus Tinker Wifi  built in to communicate with the base station using the 2.4Ghz band using sockets. 
 
->Human-robot interface: We are planning to make a base station with just a laptop running a graphical user interface that shows the video from the cameras and the data from the sensors.
+>Human-robot interface: It's planned to make a base station with just a laptop running a graphical user interface that shows the video from the cameras and the data from the sensors.
 
 
 .
@@ -55,7 +55,7 @@
 
 >Mission strategy: Our goal will be to take advantage of our robot's skills, such as its ability to make closed movements and increase its height thanks to the fact that each wheel has a pair of servo motors, plus it has independent traction on each wheel. Our main strategy is to keep our robot as stable as possible using distance sensors in conjunction with an imu achieving complete control over the robot movements and thus complete the largest number of tasks in the shortest time possible.
 
->Experiments and testing that you have done or will do: we are planing to test the robot in diferents grounds to make sure that the robot is capable of goes through it using the cameras as the principal way to navigate the robot.
+>Experiments and testing that you have done or will do: It's planned to test the robot in different grounds to make sure that the robot is capable of goes through it using the cameras as the principal way of navigation.
 
 >How the particular strengths of your team are relevant to applications in the field: Our locomotion system allows us to cross irregular obstacles with ease and we count with a resistant of the robot structure thanks that we use aluminum extrusions as the main support.
 
