@@ -38,7 +38,7 @@
 
 >Hardware: Our robot is designed to be capable of lift up itself overpassing high obstacles and make precise turns using multiples analogic servo motors controlled by a multi servo motors board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servo motors board via UART) in addition the robot is equipped with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
 
->Software: We are planning to use Pycharm to code Python scripts, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
+>Software: It is planned to develop python scripts using Pycharm, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
 
 >Communications: The robot will use the Asus Tinker Wifi  built in to communicate with the base station using the 2.4Ghz band using sockets. 
 
