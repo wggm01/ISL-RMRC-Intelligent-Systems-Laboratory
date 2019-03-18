@@ -53,7 +53,7 @@
 
 >Setup and packup of your robot and operator station: The operator station just will be a laptop and the robot will be carried in a suit case that gives enough space to put all the accesories.
 
->Mission strategy: Our goal will be to take advantage of our robot's skills, such as its ability to make closed movements and increase its height thanks to the fact that each wheel has a pair of servo motors, plus it has independent traction on each wheel. Our main strategy is to keep our robot as stable as possible using distance sensors in conjunction with an imu achieving complete control over the robot movements and thus complete the largest number of tasks in the shortest time possible.
+>Mission strategy: Our goal will be to take advantage of our robot's skills, such as its ability to make closed movements and increase its height thanks to the fact that each wheel has a pair of servo motors, plus it has independent traction on each wheel. Our main strategy is to keep our robot as stable as possible using distance sensors along with an imu achieving complete control over the robot movements and thus complete the largest number of tasks in the shortest time possible.
 
 >Experiments and testing that you have done or will do: It's planned to test the robot in different grounds to make sure that the robot is capable of goes through it using the cameras as the principal way of navigation.
 
