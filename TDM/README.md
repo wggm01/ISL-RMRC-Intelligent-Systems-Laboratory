@@ -36,7 +36,7 @@
 
 **System description:**
 
->Hardware: Our robot is designed to be capable of lift up itself overpassing high obstacles and make precise turns using multiples analogic servos controlled by a multi servos board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servos board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
+>Hardware: Our robot is designed to be capable of lift up itself overpassing high obstacles and make precise turns using multiples analogic servo motors controlled by a multi servo motors board that is directly connected to an Arduino Mega via UART (Robot arm is controlled with a multi servo motors board via UART) in addition count with 4 High Torque DC motors controlled with an H-bridge. The robot also has a laptop webcam and a RpiCam, one for image recognition allocated in the robot arm and the other one to drive the robot those cameras are connected to an Asus Tinker Board and stream via Wifi to the base station. another feature that we are planning to add is an inertial measurement unit to keep the robot stable and four distance sensor to has more control over the robot.
 
 >Software: We are planning to use Pycharm to code Python scripts, Arduino IDE, and a Linux based operating system to run the python scripts in the Asus Tinker Board.
 
@@ -53,7 +53,7 @@
 
 >Setup and packup of your robot and operator station: The operator station just will be a laptop and the robot will be carried in a suit case that gives enough space to put all the accesories.
 
->Mission strategy: Our goal will be to take advantage of our robot's skills, such as its ability to make closed movements and increase its height thanks to the fact that each wheel has a pair of servos, plus it has independent traction on each wheel. Our main strategy is to keep our robot as stable as possible using distance sensors in conjunction with an imu achieving complete control over the robot movements and thus complete the largest number of tasks in the shortest time possible.
+>Mission strategy: Our goal will be to take advantage of our robot's skills, such as its ability to make closed movements and increase its height thanks to the fact that each wheel has a pair of servo motors, plus it has independent traction on each wheel. Our main strategy is to keep our robot as stable as possible using distance sensors in conjunction with an imu achieving complete control over the robot movements and thus complete the largest number of tasks in the shortest time possible.
 
 >Experiments and testing that you have done or will do: we are planing to test the robot in diferents grounds to make sure that the robot is capable of goes through it using the cameras as the principal way to navigate the robot.
 
